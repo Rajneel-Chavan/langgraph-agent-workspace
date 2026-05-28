@@ -2,3 +2,5 @@
 chatbot.db
 __pycache__/
 myenv/
+*.db-shm
+*.db-wal
