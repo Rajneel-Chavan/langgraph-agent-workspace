@@ -87,6 +87,16 @@ Unlike simple chatbots, this system maintains **persistent conversation memory a
 
 ---
 
+
+## 📸 Screenshots
+
+| Stock price tool | PDF RAG tool with citations |
+|---|---|
+| ![Stock price tool](stock-price-tool.jpeg) | ![PDF RAG tool](pdf-rag-tool.jpeg) |
+
+
+---
+
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
